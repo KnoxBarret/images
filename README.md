@@ -1,1 +1,1 @@
-Readme for KnoxBarret logo
+Readme for KnoxBarret logo use as CDN
